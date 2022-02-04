@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PDF</string>
+
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!--    <string name="banner_id">ca-app-pub-3033915066335248/5805284464</string>-->
+    <!--    <string name="app_id">ca-app-pub-3033915066335248~8546341334</string>-->
+
+</resources>
